@@ -16,5 +16,5 @@ All files and code for DSCI 531 Final Project
 Project/project final.ipynb - final notebook  
 Project/project final.py - final code (same as notebook)   
 Project/student - data folder   
-Project/.  
+Project/final-report-danielle-sim-saurabh-jain.pdf - final report. 
  
